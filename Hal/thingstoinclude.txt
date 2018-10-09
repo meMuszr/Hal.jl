@@ -27,7 +27,7 @@ Things to include in Hal.jl:
 	-Genetic Algorithms's (GA)
 	-Evolutionary Strategies (ES)
 
-* Brain sim algorithms
+* Brain Simulation Algorithms
 	-Hebbian Learning
 
 

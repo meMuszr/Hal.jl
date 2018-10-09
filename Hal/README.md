@@ -9,11 +9,9 @@ As an AI enthusiast who fell in love with the Julia programming language, I felt
 
 ## Why [Julia](https://julialang.org/)?
 
-While the AI community has invested heavily in developing an ecosystem around the [Python](https://www.python.org/) programming language ([Tensorflow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), etc.), I belive that the [performant](https://julialang.org/benchmarks/) and expressive nature of Julia make it a great addition to the list of technologies to use in one's AI related projects.
+While the AI community has invested heavily in developing an ecosystem around the [Python](https://www.python.org/) programming language ([Tensorflow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), etc.), I believe that the [performant](https://julialang.org/benchmarks/) and expressive nature of Julia make it a great addition to the list of technologies to use in one's AI related projects.
 
-## How To Use
-
-##Credits
+## Credits
 
 By far, the most useful sources of information to my learning are Stanford's [cs231n](http://cs231n.stanford.edu/) and the UCL [course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) on Reinforcement Learning. Those two are followed very closely by Andrew Trask's [blog](https://iamtrask.github.io/) and Siraj Raval's [YouTube channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/featured), which are also important sources of information and inspiration to my efforts.
 

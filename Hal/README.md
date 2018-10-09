@@ -9,7 +9,7 @@ As an AI enthusiast who fell in love with the Julia programming language, I felt
 
 ## Why [Julia](https://julialang.org/)?
 
-While the AI community has invested heavily in developing an ecosystem around the Python programming language ([Tensorflow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), etc.), I belive that the [performant](https://julialang.org/benchmarks/) and expressive nature of Julia make it a great addition to the list of technologies to use in one's AI related projects.
+While the AI community has invested heavily in developing an ecosystem around the [Python](https://www.python.org/) programming language ([Tensorflow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), etc.), I belive that the [performant](https://julialang.org/benchmarks/) and expressive nature of Julia make it a great addition to the list of technologies to use in one's AI related projects.
 
 ## How To Use
 

@@ -4,7 +4,7 @@ Hal.jl aims to provide a lightweight set of tools for programmers to build Machi
 
 ## Motivation
 
-As an AI enthusiast who fell in love with the Julia programming language, I felt it only appropriate to develop a library that would be beneficial both to myself for deepening my knowledge of AI algorithms and the Julia programming language, as well as my fellow Julia developers who might want to use those algorithms in their own projects. Due to the educational nature of this project, the scope of algorithms implemented here will increase with my knowledge. Many of the implementations I plan to make are listed in the "thingstoinclude.txt" file within the Hal project folder, however, if there is something not currently available here, I happily encourage users to contact me and make a request!
+As an AI enthusiast who fell in love with the Julia programming language, I felt it only appropriate to develop a library that would be beneficial both to myself for deepening my knowledge of AI algorithms and the Julia programming language, as well as my fellow Julia developers who might want to use those algorithms in their own projects. Due to the educational nature of this project, the scope of algorithms implemented here will increase with my knowledge. Many of the implementations I plan to make are listed in the "thingstoinclude.txt" file within the Hal project folder. However, if there is something not currently available here, I happily encourage users to contact me and make a request!
 
 
 ## Why [Julia](https://julialang.org/)?

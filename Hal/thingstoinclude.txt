@@ -1,11 +1,5 @@
 Things to include in Hal.jl:
 
-* General Machine Learning algorithms
-	-Linear Regression
-	-Logistic Regression
-	-Naive Bayes
-	-SVM
-
 * Deep Learning Algorithms
 	-Dense Layer
 	-Convolutional Layer

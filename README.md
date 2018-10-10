@@ -1,6 +1,6 @@
 # Hal.jl
 
-Hal.jl aims to provide a lightweight set of tools for programmers to build Machine Learning and Evolutionary Algorithm models in the Julia programming language.
+Hal.jl aims to provide a lightweight set of tools for programmers to build Machine Learning models and Evolutionary Algorithms in the Julia programming language.
 
 ## Motivation
 

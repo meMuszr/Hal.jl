@@ -15,3 +15,6 @@ While the AI community has invested heavily in developing an ecosystem around th
 
 By far, the most useful sources of information to my learning are Stanford's [cs231n](http://cs231n.stanford.edu/) and the UCL [course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) on Reinforcement Learning. Those two are followed very closely by Andrew Trask's [blog](https://iamtrask.github.io/) and Siraj Raval's [YouTube channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/featured), which are also important sources of information and inspiration to my efforts.
 
+Hal.jl was also inspired by the work done on [Flux.jl](http://fluxml.ai/), which is an incredibly feature-rich library for machine learning in the Julia programming language.
+
+
